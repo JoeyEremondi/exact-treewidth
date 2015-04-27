@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{"project://Copy%20of%20C":{"ram":1000,"variables":{"configurationType":"cpp"},"options":{}},"recommend":{"ram":256,"variables":{},"options":{}}},"default":"system:/cpp/simple"},"type":"cpp","attributes":{"language":["cpp"]}}
