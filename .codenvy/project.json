@@ -1,1 +1,1 @@
-{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{"project://C   Make and Run":{"ram":1000,"variables":{},"options":{}}},"default":"project://C   Make and Run"},"type":"cpp","attributes":{"language":["cpp"]}}
+{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{"project://C   Make and Run":{"ram":1000,"variables":{},"options":{}},"project://C%20%20%20Make%20and%20Run":{"ram":1000,"variables":{"configurationType":"cpp"},"options":{}}},"default":"project://C   Make and Run"},"type":"cpp","attributes":{"language":["cpp"]}}
